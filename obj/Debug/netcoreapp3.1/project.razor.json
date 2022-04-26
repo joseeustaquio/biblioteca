@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\registraUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\registraUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
@@ -14447,6 +14452,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\editarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\editarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
       "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
       "FileKind": "mvc"
@@ -14474,6 +14484,26 @@
     {
       "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
       "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuarios\\NeedAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\listaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\listaDeUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\excluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\excluirUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\cadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuarios\\cadastroRealizado.cshtml",
       "FileKind": "mvc"
     }
   ],
