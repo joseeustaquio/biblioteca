@@ -14412,8 +14412,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\registraUsuario.cshtml",
-      "TargetPath": "Views\\Usuarios\\registraUsuario.cshtml",
+      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\RegistraUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\RegistraUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14452,8 +14452,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\editarUsuario.cshtml",
-      "TargetPath": "Views\\Usuarios\\editarUsuario.cshtml",
+      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\editarUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\editarUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14492,8 +14492,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\listaDeUsuarios.cshtml",
-      "TargetPath": "Views\\Usuarios\\listaDeUsuarios.cshtml",
+      "FilePath": "c:\\Users\\Jose Eustaquio\\Documents\\UC7_Senac\\Biblioteca\\Views\\Usuarios\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\ListaDeUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
